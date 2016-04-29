@@ -1,0 +1,8 @@
+- execute command "make" to compile all code
+
+- ./master no_of_processes virtual_address_space physical_address_space       (output on terminal)
+
+- each output has associated starting which tells which process has generated the output
+	eg:  MMU ....
+
+- ./master no_of_processes virtual_address_space physical_address_space > out.txt   	(output in file)
